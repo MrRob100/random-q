@@ -18,6 +18,8 @@
         }
     },
     "require": {
-        "illuminate/console": "Required to use the auth:clear-resets command (^7.0)."
+        "php": "^7.2.5",
+        "illuminate/queue": "^7.0",
+        "illuminate/console": "^7.0"
     }
 }
