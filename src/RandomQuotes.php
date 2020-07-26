@@ -6,6 +6,7 @@
 
     public function getRandomQuotes() {
 
+      //COMMENT ADDED TEST
       // Get the list of quotes.
       $quotes = file_get_contents( __DIR__ . '/../inc/quotes.json' );
       // Convert JSON document to PHP array.
