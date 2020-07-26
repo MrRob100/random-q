@@ -1,12 +1,12 @@
 {
-    "name": "rakibtg/php-random-quotes-generator",
-    "description": "This library will generate a random quote for you.",
+    "name": "craigtapes/random-q",
+    "description": "Random Desc",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "rakibtg",
-            "email": "rakibtg@gmail.com"
+            "name": "horidhenry",
+            "email": "robarnold100@hotmail.com"
         }
     ],
     "autoload": {
