@@ -9,6 +9,9 @@
             "email": "robarnold100@hotmail.com"
         }
     ],
+    "suggest": {
+        "illuminate/console": "Required to use the auth:clear-resets command (^7.0)."
+    },
     "autoload": {
         "psr-4": {
             "RandomQuotes\\": "src/"
